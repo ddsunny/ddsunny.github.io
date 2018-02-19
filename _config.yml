@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 逍遥的小博客
-brief-intro: Android and Python Coder
+title: 木笔丹丹的世界 
+brief-intro: A sunny student
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xcracker.github.io" # the base hostname & protocol for your site
+url: "https://ddblog.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #wsxiaoyao@live.com
-facebook_username: #李逍遥
-github_username:  xcracker  
-email: wsxiaoyao@live.com
-weibo_username: 814288850
-zhihu_username: xiaoyaozone
+twitter_username: #
+facebook_username: #
+github_username:  #xcracker  
+email: x1249855586@outlook.com
+weibo_username: 
+zhihu_username: 
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自木子逍遥的个人专栏！
+description_footer: 来自木笔丹丹的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,8 +35,8 @@ disqus_shortname: #gaohaoyang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id:  02251fb941d9f32506be28d23b126b7d
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+baidu_tongji_id:  #02251fb941d9f32506be28d23b126b7d
+google_analytics_id: #UA-72449510-4 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
